@@ -1,0 +1,31 @@
+div{
+    border: solid 20px;
+       
+        
+}
+body{
+    background-image: url("https://s-media-cache-ak0.pinimg.com/736x/b7/e7/41/b7e741c1ca0400e905378d7c635beb5f.jpg");
+
+    
+}
+div.forma1{
+background-attachment: fixed;width: 100%}
+div p{font-family: serif;}
+
+
+div.forma2 {background-attachment: fixed;width: 100%;}
+div p{font-family: sans-serif;}
+
+div.forma3 {background-attachment: fixed;width: 100%;}
+div p{font-family: sans-serif;}
+
+
+div.forma4 {margin: 12px;padding: 32px 32px;border:solid 12px red;background-attachment: fixed;width: 100%;}
+div p{font-family: sans-serif;}
+
+
+
+body{
+    border-width: medium;
+}
+

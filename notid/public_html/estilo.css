@@ -1,0 +1,151 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: #535362;
+}
+
+#contenedor{
+    width: 960px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 20px;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+header{
+    background: #0f0f1E;
+    height: 100px;
+}
+
+header h1{
+    color: #fff;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: arial;
+    line-height: 100px;
+    margin-left: 10px;
+    float: left;
+}
+
+#redes{
+    float: right;
+    line-height: 100px;
+}
+
+#redes img{
+    margin: 10px;
+    vertical-align: middle;
+    border-radius: 100%;
+    box-shadow: 2px 2px 0px red;
+}
+
+nav{
+    background: #D90000;
+    height: 60px;
+}
+
+nav li{
+    list-style: none;
+    display: inline-block;
+    padding: 20px 0px;
+}
+
+nav a{
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: arial;
+    text-decoration: none;
+    padding: 30px;
+}
+
+nav a:hover{
+    background: #000;
+}
+
+#banner{
+    margin: auto;
+    border: 5px solid #000;
+    margin-top: 10px;
+}
+
+#contenido{
+    float: left;
+    width: 700px;
+    background: #9797A6;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.articulos h2{
+    font-size: 40px;
+    padding: 10px;
+    color: #A40000;
+    border-bottom: 5px solid #A40000;
+}
+
+.articulos img{
+    float: left;
+    margin: 10px;
+}
+
+.articulos p{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    line-height: 15px;
+}
+
+aside{
+    float: right;
+    width: 250px;
+    background: #9797A6;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+aside h3{
+    font-size: 25px;
+    background: blue;
+    text-align: center;
+    padding: 10px;
+    color: #fff;
+}
+
+aside p{
+    padding: 10px;
+    font-size: 12px;
+    text-align: justify;
+    line-height: 15px;
+}
+
+aside img{
+    width: 100px;
+}
+
+#imgaside{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+footer{
+    height: 60px;
+    background: #0f0f1E;
+    clear: both;
+}
+
+footer p{
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    line-height: 60px;
+    font-style: italic;
+}
+
+

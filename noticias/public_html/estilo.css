@@ -1,0 +1,96 @@
+body{
+   font-size: 14px;
+   font-family: sans-serif;
+   margin: 0px;
+}
+.contenedor{
+    width: 940px;
+    margin: 0px auto;
+}
+header{
+    background-color: black;
+    height: 60px;
+    position: fixed;
+    width: 100%;
+}
+#logo, #menu{
+    float: left;
+    width: 50%;
+  
+}
+.limpiar{
+    clear: both;
+}
+#logo h1{
+    font-family: 'Vibur', cursive;
+    color: #ff3333;
+    margin: 0;
+    padding: 5px;
+    font-size: 26px;
+}
+#menu ul{
+    margin: 0px;
+}
+#menu ul li{
+   display: inline-block;
+   padding: 15px;
+   height: 30px; 
+}
+#menu ul li a {
+    transition: all .5s;
+}
+#menu ul li:hover a{
+    color: #ff3333;
+   transition: all .5s;
+}
+#menu ul li a{
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+section#fondo{
+    background-image: url("../imagenes/banner.jpg");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: -30px;
+    background-attachment: fixed;
+}
+section#fondo h1{
+    padding-top: 100px;
+    color: white;
+    font-weight: 300;
+    font-size: 30px;
+}
+
+section#fondo a{
+    display: inline-block;
+    padding: 8px;
+    border: 1px solid white;
+    color: white;
+    text-decoration: none;
+     transition: all .5s
+}
+section#fondo a:hover{
+    background-color: rgba(255,255,255,.5);
+    transition: all .5s
+}
+
+section#cuadro a{
+    display: inline-block;
+    padding: 8px;
+    border: 1px solid orange;
+    color: orange;
+    text-decoration: none;
+     transition: all .5s
+}
+
+section#cuadro a:hover{
+    background-color: rgba(255,255,255,.5);
+    transition: all .5s
+}
+ h2{
+    color: red;
+    
+}
+

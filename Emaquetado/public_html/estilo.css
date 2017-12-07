@@ -1,0 +1,35 @@
+#main{
+    width: 940px;
+    margin-left: auto;
+    background-color: red;
+}
+
+#logo h1{
+    font-family: sans-serif;
+    color: red;
+    font-weight: 300;
+    float: left;
+    
+}
+
+#logo h2{
+    font-family: serif;
+    font-style: italic;
+    font-size: 14px;
+    float: left;
+    margin-top: 40px;
+    margin-left: 10px;
+    font-weight: 
+}
+
+.limpiar{
+    clear: both;
+}
+
+#menu ul{
+    background-color: orangered;
+    padding: 5px;
+    margin-top: 0px;
+    
+}
+

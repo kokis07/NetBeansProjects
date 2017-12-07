@@ -1,0 +1,15 @@
+body{
+   background-color: #ffdd92
+}
+.mancha1{
+    border-bottom: 6px solid white;
+    border-top: 6px solid white;
+    text-align: right;
+}
+
+.mancha3{
+    border-top: 6px solid white;
+    background-color: orange;
+    text-align: center;
+}
+
